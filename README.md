@@ -23,7 +23,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/nntHrGu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ezgif com-resize-2-2-2-2](https://github.com/AbbyDamodaran/web102_prework/assets/78409617/42e7c028-1d5d-4ac9-8424-661823ac3c15)
+
+[GIF compressed for README file size limit] 
+
+See full-resolution video here: https://imgur.com/nntHrGu
 
 GIF created with TapRecord
 
