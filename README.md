@@ -1,23 +1,12 @@
-# WEB102 Prework - *Gamestarter*
-
-Submitted by: **Abinaya Damodaran**
+# *Gamestarter*
 
 **Gamestarter** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **7** hours spent in total
-
-## Required Features
-
-The following **required** functionality is completed:
-
+## Features
 * [x] The introduction section explains the background of the company and how many games remain unfunded.
 * [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
 * [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
-
-The following **optional** features are implemented:
-
-* [ ] TBD: Other things to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -33,7 +22,7 @@ GIF created with TapRecord
 
 ## Notes
 
-After the iOS course this fall, it was interesting to get a taste of the web development paradigm through this prework taster. Flexboxes, separation of concerns with HTML/styling sheets/JS business logic, the comcept of DOM -- all very new to me & the first of many discoveries, hopefully!
+After the iOS course this fall, it was interesting to get a taste of the web development paradigm through this wevdev taster. Flexboxes, separation of concerns with HTML/styling sheets/JS business logic, the comcept of DOM -- all very new to me & the first of many discoveries, hopefully!
 
 ## License
 
